@@ -1,0 +1,27 @@
+
+@@@PPT of Eisenhower System
+https://docs.google.com/presentation/d/1cOZyj3jvau3b4tbAQeKw0h5Lur3o-6UZDJjS-qm3HTs/edit#slide=id.g142af616cc7_0_20
+
+
+@@@Task Sheet
+https://docs.google.com/spreadsheets/d/1R1UM_143wWpEkRBva2-6-8EyCXsHj-FZFTZHcl_jXxc/edit#gid=0
+https://docs.google.com/spreadsheets/d/1R1UM_143wWpEkRBva2-6-8EyCXsHj-FZFTZHcl_jXxc/edit#gid=0
+
+
+@@@kubernetes
+https://betterprogramming.pub/deploy-a-full-stack-go-and-react-app-on-kubernetes-4f31cdd9a48b
+https://faun.pub/learning-kubernetes-on-eks-by-doing-part-4-ingress-on-eks-6c5e5a34920b#:~:text=Deploying%20ALB%20Ingress%20Controller%20on%20EKS&text=In%20the%20IAM%20console%2C%20create,created%20when%20setting%20up%20EKS.
+
+https://faun.pub/learning-kubernetes-on-eks-by-doing-part-4-ingress-on-eks-6c5e5a34920b
+
+
+@@@uuid attach django
+https://tech.serhatteker.com/post/2020-01/uuid-primary-key/
+https://www.geeksforgeeks.org/uuidfield-django-models/
+
+
+@@@for JWT
+https://simpleisbetterthancomplex.com/tutorial/2018/12/19/how-to-use-jwt-authentication-with-django-rest-framework.html
+
+
+
